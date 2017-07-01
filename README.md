@@ -24,6 +24,8 @@ pip3 install django
 
 ![](images/9c8e5314.png)
 
+> 返回的是封装了字符串的Http
+
 ## 6.启动web服务
 
 ![](images/93e91e8d.png)
